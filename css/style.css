@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.table {
+	padding: 30px;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	border: 1px solid black;
+	visibility: hidden;
+	background-color: white;
+	}
+.red {
+margin: 10px;
+width: 100px;
+height: 30px;
+background-color: red;
+color: white;
+}
+.green {
+margin: 10px;
+width: 100px;
+height: 30px;
+background-color: green;
+color: white;
+}
+.blue {
+margin: 10px;
+width: 100px;
+height: 30px;
+background-color: blue;
+color: white;
+}
